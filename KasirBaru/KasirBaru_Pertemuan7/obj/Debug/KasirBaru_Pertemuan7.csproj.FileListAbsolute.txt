@@ -1,0 +1,7 @@
+E:\Data Sharp Develop\KasirBaru\KasirBaru_Pertemuan7\bin\Debug\KasirBaru_Pertemuan7.exe
+E:\Data Sharp Develop\KasirBaru\KasirBaru_Pertemuan7\bin\Debug\KasirBaru_Pertemuan7.pdb
+E:\Data Sharp Develop\KasirBaru\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.csprojResolveAssemblyReference.cache
+E:\Data Sharp Develop\KasirBaru\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.MainForm.resources
+E:\Data Sharp Develop\KasirBaru\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.csproj.GenerateResource.Cache
+E:\Data Sharp Develop\KasirBaru\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.exe
+E:\Data Sharp Develop\KasirBaru\KasirBaru_Pertemuan7\obj\Debug\KasirBaru_Pertemuan7.pdb
